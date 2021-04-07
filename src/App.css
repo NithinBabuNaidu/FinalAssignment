@@ -1,0 +1,42 @@
+.navbar {
+  padding-top: 20px;
+  height: 70px;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-weight: 500;
+  font-family: "Montserrat";
+  background-color: #2b7a78;
+}
+
+.search {
+  text-align: center;
+  background-color: rgb(185, 102, 185);
+}
+
+.card1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 70px);
+  text-align: center;
+  background-color: #def2f1;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 70px);
+  text-align: center;
+  background-color: #3aafa9;
+}
+.error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(236, 169, 236);
+}
